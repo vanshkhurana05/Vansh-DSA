@@ -1,5 +1,7 @@
 package Day11;
 
 public class cat1 {
-    String 
+    String name;
+    String colour;
+    String legs; 
 }
